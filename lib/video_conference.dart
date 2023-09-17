@@ -16,8 +16,8 @@ class Conference extends State<video_conference>{
         userName: 'Nitin',
         userID: 'Nitin98',
         conferenceID: conferenceID,
-        appID:  , // Provided by ZEGOCLOUDAPI
-        appSign: '',//Provided by ZEGOCLOUDAPI
+        appID:  , // Give your AppID here, Provided by ZEGOCLOUDAPI
+        appSign: '',//Give your AppID here, Provided by ZEGOCLOUDAPI
         config: ZegoUIKitPrebuiltVideoConferenceConfig(),
       ) 
       );
