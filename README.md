@@ -1,6 +1,6 @@
 # vid_conf
 
-A new Flutter project.
+You just need a AppID and AppSign to use this project..
 
 ## Getting Started
 
